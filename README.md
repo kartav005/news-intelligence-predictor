@@ -101,8 +101,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author
 
-**Author:** Muhammad Saeed  
-**Email:** [your-email@example.com]  
-**GitHub:** [github.com/your-username](https://github.com/your-username)
+**Muhammad Saeed**  
+AI & Data Science Enthusiast  
