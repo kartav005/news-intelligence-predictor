@@ -86,6 +86,7 @@ Input:
 Output:
 - **Prediction**: `Politics` *(for example)*
 
+
 ---
 
 ## 📝 License
