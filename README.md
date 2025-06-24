@@ -27,7 +27,6 @@
 ├── static/                # Static CSS/JS assets (optional)
 └── train_model.py         # Script to train and save model/vectorizer
 ```
-
 ---
 
 ## ⚙️ Installation
